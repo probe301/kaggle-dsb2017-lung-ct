@@ -1,0 +1,5 @@
+__pycache__/
+dev.log
+ct_sample_images/
+.ipynb_checkpoints/
+.DS_Store
