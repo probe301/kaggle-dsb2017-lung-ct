@@ -3,3 +3,5 @@ dev.log
 ct_sample_images/
 .ipynb_checkpoints/
 .DS_Store
+stage1/
+stage1.7z
