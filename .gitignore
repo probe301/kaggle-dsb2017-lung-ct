@@ -5,3 +5,6 @@ ct_sample_images/
 .DS_Store
 stage1/
 stage1.7z
+
+desktop.ini
+muchdata-50-50-20.npy
