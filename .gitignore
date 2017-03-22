@@ -8,3 +8,6 @@ stage1.7z
 
 desktop.ini
 muchdata-50-50-20.npy
+
+*.npy
+*.yaml
